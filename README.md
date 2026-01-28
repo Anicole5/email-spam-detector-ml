@@ -17,7 +17,7 @@ pip install pandas>=1.5.0 numpy>=1.21.0 scikit-learn>=1.2.0 matplotlib>=3.7.0 se
 ```
 
 ### 2. Data Preparation
-Place these files in the project root:
+Data Source: The dataset is available on Kaggle. If you need the data, please visit Kaggle to download the required files (train.csv, test.csv, sample_submission.csv).
 - `train.csv`: 600K samples (id + 100 features + target)
 - `test.csv`: 540K samples (id + 100 features)
 - `sample_submission.csv`: Submission format example
